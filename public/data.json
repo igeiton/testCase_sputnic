@@ -1,0 +1,84 @@
+{
+  "product_cards": [
+    {
+      "id": 1,
+      "title": "Some product",
+      "origin": "USA",
+      "prices": [
+        {
+          "currency": "RUB",
+          "amount": 34900
+        },
+        {
+          "currency": "USD",
+          "amount": 443.36
+        },
+        {
+          "currency": "EUR",
+          "amount": 386.45
+        }
+      ],
+      "image_url": "https://images.unsplash.com/photo-1493723843671-1d655e66ac1c?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGhpbmdzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 2,
+      "title": "Some product",
+      "origin": "RUS",
+      "prices": [
+        {
+          "currency": "RUB",
+          "amount": 34900
+        },
+        {
+          "currency": "USD",
+          "amount": 443.36
+        },
+        {
+          "currency": "EUR",
+          "amount": 386.45
+        }
+      ],
+      "image_url": "https://images.unsplash.com/photo-1605722625766-a4c989c747a4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "title": "Some product",
+      "origin": "USA",
+      "prices": [
+        {
+          "currency": "RUB",
+          "amount": 34900
+        },
+        {
+          "currency": "USD",
+          "amount": 443.36
+        },
+        {
+          "currency": "EUR",
+          "amount": 386.45
+        }
+      ],
+      "image_url": "https://images.unsplash.com/photo-1507441973897-770c59f27f01?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "title": "Some product",
+      "origin": "USA",
+      "prices": [
+        {
+          "currency": "RUB",
+          "amount": 34900
+        },
+        {
+          "currency": "USD",
+          "amount": 443.36
+        },
+        {
+          "currency": "EUR",
+          "amount": 386.45
+        }
+      ],
+      "image_url": "https://images.unsplash.com/photo-1507441973897-770c59f27f01?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
